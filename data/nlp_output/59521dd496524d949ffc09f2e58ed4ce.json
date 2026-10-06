@@ -1,0 +1,16 @@
+{
+  "file_id": "59521dd496524d949ffc09f2e58ed4ce",
+  "sentences": [
+    "Artificial intelligence is transforming many industries by enabling computers to perform tasks \nthat previously required human intelligence.",
+    "One important part of AI is machine learning, which \nallows systems to improve their performance by analyzing data.",
+    "Different machine learning approaches are used depending on the problem being solved.",
+    "Some \nmethods rely on labeled data to guide the learning process, while others attempt to discover \npatterns automatically without prior labeling.",
+    "Machine learning technology is now used in areas such as online recommendations, automated \nlanguage translation, healthcare diagnostics, and smart transportation systems.",
+    "These \ntechnologies continue to evolve as more data and computing power become available."
+  ],
+  "corpus_texts": [
+    "Tesseract OCR The main task was t0 recognize receipts from photos Tesseract OCR was used as a primary tool. Library pros are trainedlanguage models (>192), different kinds of recognition (image as word, text block; vertical text), easy to setup: 3rd party wrapper from github was used as Tesseract OCR was written on C++. The version difference is in different trained models (the 4th version is more accurate S0 [ used it). We need file with data for text recognition, for each language each file: Download here: The better the image quality (size, contrast, lightning) the better the recognition result: Also the image processing was found for the further recognition by the OpenCV library As OpenCV is written on C++ and there $ no optimalwrapper for our decision s0 [ made my own wrapper for this library with necessary functions for image processing: The main",
+    "Machine learning is a subset of artificial intelligence.\nIt enables systems to learn from data without explicit programming.\n\n",
+    "Tesseract OCR The main task was t0 recognize receipts from photos Tesseract OCR was used as a primary tool.\nLibrary pros are trainedlanguage models (>192), different kinds of recognition (image as word, text block; vertical text), easy to setup: 3rd party wrapper from github was used as Tesseract OCR was written on C++.\nThe version difference is in different trained models (the 4th version is more accurate S0 [ used it).\nWe need file with data for text recognition, for each language each file: Download here: The better the image quality (size, contrast, lightning) the better the recognition result: Also the image processing was found for the further recognition by the OpenCV library As OpenCV is written on C++ and there $ no optimalwrapper for our decision s0 [ made my own wrapper for this library with necessary functions for image processing: The main\n"
+  ]
+}

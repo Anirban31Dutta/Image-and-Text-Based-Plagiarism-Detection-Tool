@@ -1,0 +1,12 @@
+{
+  "file_id": "56e62b53b8304457a46e2b05c59a7bb1",
+  "sentences": [
+    "Machine learning is a subset of artificial intelligence.",
+    "It enables systems to learn from data without explicit programming."
+  ],
+  "corpus_texts": [
+    "Tesseract OCR The main task was t0 recognize receipts from photos Tesseract OCR was used as a primary tool. Library pros are trainedlanguage models (>192), different kinds of recognition (image as word, text block; vertical text), easy to setup: 3rd party wrapper from github was used as Tesseract OCR was written on C++. The version difference is in different trained models (the 4th version is more accurate S0 [ used it). We need file with data for text recognition, for each language each file: Download here: The better the image quality (size, contrast, lightning) the better the recognition result: Also the image processing was found for the further recognition by the OpenCV library As OpenCV is written on C++ and there $ no optimalwrapper for our decision s0 [ made my own wrapper for this library with necessary functions for image processing: The main",
+    "Machine learning is a subset of artificial intelligence.\nIt enables systems to learn from data without explicit programming.\n\n",
+    "Tesseract OCR The main task was t0 recognize receipts from photos Tesseract OCR was used as a primary tool.\nLibrary pros are trainedlanguage models (>192), different kinds of recognition (image as word, text block; vertical text), easy to setup: 3rd party wrapper from github was used as Tesseract OCR was written on C++.\nThe version difference is in different trained models (the 4th version is more accurate S0 [ used it).\nWe need file with data for text recognition, for each language each file: Download here: The better the image quality (size, contrast, lightning) the better the recognition result: Also the image processing was found for the further recognition by the OpenCV library As OpenCV is written on C++ and there $ no optimalwrapper for our decision s0 [ made my own wrapper for this library with necessary functions for image processing: The main\n"
+  ]
+}

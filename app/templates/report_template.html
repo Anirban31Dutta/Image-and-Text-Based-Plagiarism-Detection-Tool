@@ -1,0 +1,46 @@
+<html>
+<head>
+<style>
+body {
+    font-family: Arial;
+    margin: 40px;
+}
+
+h1 {
+    color: #222;
+}
+
+.plagiarized {
+    background-color: #ffb3b3;
+}
+
+.ai-detected {
+    background-color: #b3d9ff;
+}
+
+.normal {
+    background-color: transparent;
+}
+
+p {
+    font-size: 14px;
+    line-height: 1.6;
+}
+</style>
+</head>
+
+<body>
+
+<h1>{{report_title}}</h1>
+
+<p><b>File:</b> {{file_id}}</p>
+<p><b>{{score_label}}:</b> {{percentage}}%</p>
+
+<hr>
+
+<p>
+{{content}}
+</p>
+
+</body>
+</html>
